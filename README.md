@@ -989,7 +989,7 @@ with the CatBoost depth-10, 2000-iteration model.
 
 ---
 
-## 👤 Project Status
+## 👤 Project Status **Kaggle Rank :**- 643 
 
 **Model development:** Complete  
 **Feature engineering:** Complete  
@@ -1000,7 +1000,8 @@ with the CatBoost depth-10, 2000-iteration model.
 **Submission validation:** Complete  
 
 The next step is to submit the generated CSV to the competition and record the resulting public leaderboard score (You can find it in Submissions folder)
-**Kaggle Rank - 643 
+
+
 
 # 👨‍💻 Author
 
