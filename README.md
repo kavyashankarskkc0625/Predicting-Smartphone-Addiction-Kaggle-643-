@@ -989,7 +989,8 @@ with the CatBoost depth-10, 2000-iteration model.
 
 ---
 
-## 👤 Project Status **Kaggle Rank :**- 643 
+## 👤 Project Status 
+**Kaggle Rank :- 643**
 
 **Model development:** Complete  
 **Feature engineering:** Complete  
