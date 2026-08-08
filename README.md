@@ -1,7 +1,7 @@
 # Predicting Smartphone Addiction
 
 Project skeleton for modeling and analyzing smartphone addiction risk.
-# 📱 Phone Usage Addiction Prediction
+# 📱 Predicting Smartphone Addiction
 
 A machine learning project for predicting whether a person is likely to be classified as **phone-use addicted** based on behavioral, screen-time, productivity, sleep, notification, app-usage, stress, gender, and academic-impact features.
 
@@ -994,4 +994,16 @@ with the CatBoost depth-10, 2000-iteration model.
 **Final test prediction:** Complete  
 **Submission validation:** Complete  
 
-The next step is to submit the generated CSV to the competition and record the resulting public leaderboard score.
+The next step is to submit the generated CSV to the competition and record the resulting public leaderboard score (You can find it in Submissions folder)
+**Kaggle Rank - 643 
+
+# 👨‍💻 Author
+
+**Kavya Shankar**
+
+- GitHub: https://github.com/kavyashankarskkc0625
+- LinkedIn: https://www.linkedin.com/in/kavyashankar25/
+
+---
+
+## ⭐ If you found this project useful, consider giving it a star!
