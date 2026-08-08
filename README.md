@@ -1,11 +1,9 @@
 # Predicting Smartphone Addiction
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)](https://scikit-learn.org/)
 [![CatBoost](https://img.shields.io/badge/CatBoost-Gradient%20Boosting-yellow.svg)](https://catboost.ai/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green.svg)](https://xgboost.readthedocs.io/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-brightgreen.svg)](https://lightgbm.readthedocs.io/)
 
-Project skeleton for modeling and analyzing smartphone addiction risk.
+
 # 📱 Predicting Smartphone Addiction
 
 A machine learning project for predicting whether a person is likely to be classified as **phone-use addicted** based on behavioral, screen-time, productivity, sleep, notification, app-usage, stress, gender, and academic-impact features.
